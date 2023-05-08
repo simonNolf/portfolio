@@ -17,7 +17,7 @@
             <tbody>
                 <tr>
                     <td>
-                        <a href="/assets/openclassroom.png">Formation Openclassroom"</a>
+                        <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/openclassroom.png?raw=true">Formation Openclassroom</a>
                     </td>
                     <td> initialisation au Python </td>
                     <td> 10h</td>
@@ -30,7 +30,7 @@
                     <td> ♾️</td>
                 </tr>
                 <tr>
-                    <td>  <a href="../assets/battledev.png">Battle Dev </a></td>
+                    <td>  <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/battledev.jpg?raw=true">Battle Dev </a></td>
                     <td> Battle dev</td>
                     <td> 2h</td>
                     <td> 2h</td>
