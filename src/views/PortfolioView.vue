@@ -54,7 +54,7 @@
                     <td>40h</td>
                 </tr>
                 <tr> 
-                    <td> <a href="blob:null/e89b19ae-578f-4b8d-816a-8eccf52a2188">Job</a></td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/job.png?raw=true">Job</a></td>
                     <td> travail chez quick</td>
                     <td> 10h</td>
                     <td> 384h</td>
