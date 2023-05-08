@@ -36,7 +36,7 @@
                     <td> 2h</td>
                 </tr>
                 <tr>
-                    <td> cybersécurité</td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/cybersecurity_challenge.jpg?raw=true">cybersécurité</a></td>
                     <td> cyber security challenge</td>
                     <td> 10h</td>
                     <td> 24h</td>
@@ -60,7 +60,7 @@
                     <td> 384h</td>
                 </tr>
                 <tr>
-                    <td> formation</td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/dev_day.jpg?raw=true">formation</a></td>
                     <td> dev day</td>
                     <td> 8h</td>
                     <td> 8h</td>
