@@ -24,7 +24,7 @@
                     <td> 15h</td>
                 </tr>
                 <tr>
-                    <td> Scouts </td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/Scout.jpg?raw=true">Scouts </a></td>
                     <td> chef louveteaux et éclaireurs</td>
                     <td> 10h</td>
                     <td> ♾️</td>
@@ -42,19 +42,19 @@
                     <td> 24h</td>
                 </tr>
                 <tr>
-                    <td> Hackathon</td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/hackathon.jpg?raw=true">Hackathon</a></td>
                     <td> devoloppement sur l'écologie</td>
                     <td> 10h</td>
                     <td> 36h</td>
                 </tr>
                 <tr>
-                    <td> installation hardware</td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/hardware.jpg?raw=true">installation hardware </a></td>
                     <td> installation hardware</td>
                     <td> 10h</td>
                     <td>40h</td>
                 </tr>
                 <tr> 
-                    <td> job</td>
+                    <td> <a href="blob:null/e89b19ae-578f-4b8d-816a-8eccf52a2188">Job</a></td>
                     <td> travail chez quick</td>
                     <td> 10h</td>
                     <td> 384h</td>
