@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
       <nav>
         <RouterLink to="/">CV</RouterLink>
-        <RouterLink to="/about">Portfolio</RouterLink>
+        <RouterLink to="/portfolio">Portfolio</RouterLink>
       </nav>
   </header>
 
@@ -33,7 +33,7 @@ nav {
 }
 
 nav a.router-link-exact-active {
-  color: var(--color-text);
+  color: green;
 }
 
 nav a.router-link-exact-active:hover {
@@ -44,6 +44,7 @@ nav a {
   display: inline-block;
   padding: 0 1rem;
   border-left: 1px solid var(--color-border);
+  color: blue;
 }
 
 nav a:first-of-type {
@@ -68,7 +69,7 @@ nav a:first-of-type {
   }
 
   nav {
-    text-align: left;
+    text-align: center;
     margin-left: -1rem;
     font-size: 1rem;
 

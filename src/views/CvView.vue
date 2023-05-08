@@ -4,7 +4,7 @@
       <h1 id="titleCv">Nolf Simon</h1>
       <div>
         <h2>Developpeur</h2>
-        <p id="description"> Bonjour ! Je m'appelle Nolf Simon, je suis un développeur diplomé dans la section technologie de l'informatique de la Haute école EPHEC à Louvain La Neuve. Je suis motivé pour prendre mes premiers pas dans le monde professionel et d'apprendre de nouvelles technologies. Sur mon site, vous pourrez avoir accès à mon cv qui se trouve ci-dessous et à mon <a href="/portfolio">portfolio</a>.</p>
+        <p id="description"> Bonjour ! Je m'appelle Nolf Simon, je suis un développeur diplomé dans la section technologie de l'informatique de la Haute école EPHEC à Louvain La Neuve. Je suis motivé pour prendre mes premiers pas dans le monde professionnel et d'apprendre de nouvelles technologies. Sur mon site, vous pourrez avoir accès à mon cv qui se trouve ci-dessous et à mon <a href="/portfolio">portfolio</a>.</p>
       </div>
       <div id="socialWrapper">
         <a href="/">
@@ -44,7 +44,7 @@
         </div>
       </div>
       <div>
-        <h3>Exprériences professionelles</h3>
+        <h3>Exprériences professionnelles</h3>
         <div id="experience">
           <div id="dateExp1">2019 Bruxelles-Belgique</div>
           <div id="descriptionExp1">ApConsulting | Mastercard Waterloo
@@ -60,13 +60,12 @@
           
 
           <div id="dateExp2">2023 Février -> Mai</div>
-          <div id="descriptionExp2">Stage chez AGInsurance
-            Dévellopeur Mobile
+          <div id="descriptionExp2">Stage chez AG Insurance
+            Développeur Mobile
             Tâches réalisées :<br>
             <ul>
               <li>Création d'application mobile</li>
               <li>Création de base de données Dataverse</li> 
-              <li></li>
             </ul>
           </div>
 
@@ -102,7 +101,7 @@
       <div id="contact">
         <h5>Contact</h5>
         <ul>
-          <li class="contactInfo"> <img src="../assets/adress.png"> rue d'Hennuyères, n°38</li>
+          <li class="contactInfo"> <img src="../assets/adress.png"> rue d'Hennuyères, n°38, 1421 Ophain</li>
           <li class="contactInfo"><img src="../assets/email.png"> simon.nolf@gmail.com</li>
           <li class="contactInfo"><img src="../assets/phone-call.png"> (+32)471/90 81 62</li>/
         </ul>
@@ -129,7 +128,7 @@
           <li> Ponctualité </li>
           <li> Esprit d’équipe </li>
           <li> Gestion du stress</li>
-          <li> organisation du temps </li>
+          <li> Organisation du temps </li>
         </ul>
       </div>
       <hr>
