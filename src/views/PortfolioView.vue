@@ -8,10 +8,10 @@
         <table>
             <thead>
                 <tr>
-                    <th> activité réalisées </th> 
-                    <th> thème </th> 
-                    <th> heures valorisées </th> 
-                    <th> heure réelles </th> 
+                    <th> Activités réalisées </th> 
+                    <th> Thèmes </th> 
+                    <th> Heures valorisées </th> 
+                    <th> Heures réelles </th> 
                     </tr>
             </thead> 
             <tbody>
@@ -36,19 +36,19 @@
                     <td> 2h</td>
                 </tr>
                 <tr>
-                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/cybersecurity_challenge.jpg?raw=true">cybersécurité</a></td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/cybersecurity_challenge.jpg?raw=true">Cybersécurité</a></td>
                     <td> cyber security challenge</td>
                     <td> 10h</td>
                     <td> 24h</td>
                 </tr>
                 <tr>
                     <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/hackathon.jpg?raw=true">Hackathon</a></td>
-                    <td> devoloppement sur l'écologie</td>
+                    <td> développement sur l'écologie</td>
                     <td> 10h</td>
                     <td> 36h</td>
                 </tr>
                 <tr>
-                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/hardware.jpg?raw=true">installation hardware </a></td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/hardware.jpg?raw=true">Installation hardware </a></td>
                     <td> installation hardware</td>
                     <td> 10h</td>
                     <td>40h</td>
@@ -60,14 +60,14 @@
                     <td> 384h</td>
                 </tr>
                 <tr>
-                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/dev_day.jpg?raw=true">formation</a></td>
+                    <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/dev_day.jpg?raw=true">Formation</a></td>
                     <td> dev day</td>
                     <td> 8h</td>
                     <td> 8h</td>
                 </tr>
                 <tr>
                     <td class="delete delete1"></td>
-                    <td> total heures valorisées:</td>
+                    <td> Total heures valorisées:</td>
                     <td> 70h</td>
                     <td class="delete delete2"></td>
                     

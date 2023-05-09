@@ -4,7 +4,7 @@
       <h1 id="titleCv">Nolf Simon</h1>
       <div>
         <h2>Developpeur</h2>
-        <p id="description"> Bonjour ! Je m'appelle Nolf Simon, je suis un développeur diplomé dans la section technologie de l'informatique de la Haute école EPHEC à Louvain La Neuve. Je suis motivé pour prendre mes premiers pas dans le monde professionnel et d'apprendre de nouvelles technologies. Sur mon site, vous pourrez avoir accès à mon cv qui se trouve ci-dessous et à mon <a href="/portfolio">portfolio</a>.</p>
+        <p id="description"> Bonjour! Je m'appelle Nolf Simon, je suis un développeur diplomé dans la section technologie de l'informatique de la Haute école EPHEC à Louvain La Neuve. Je suis motivé à débuter dans le monde professionnel et à d'apprendre de nouvelles technologies. Sur mon site, vous pourrez avoir accès à mon cv qui se trouve ci-dessous ainsi qu'à mon <a href="/portfolio/portfolio">portfolio</a>.</p>
       </div>
       <div id="socialWrapper">
         <a href="/">
@@ -35,16 +35,16 @@
         <h3>Études/Formations</h3>
         <div id="formation">
           <div id="dateFromation1">2019 Nivelles - Belgique</div>
-          <div id="descriptionFormation1">Diplôme CESS au Collège Sainte-Gertrude</div>
+          <div id="descriptionFormation1">Diplôme CESS au Collège Sainte-Gertrude.</div>
           <div id="dateFromation2">2020 Belgique</div>
           <div id="descriptionFormation2">Formation d’initiation au développement web (CSS, JavaScript, HTML) Ephec
-            (Technofutur)</div>
+            (Technofutur).</div>
           <div id="dateFromation3">2020 - aujourd'hui</div>
-          <div id="descriptionFormation3">Bachelier en technologie de l’informatique Ephec , Louvain la-neuve</div>
+          <div id="descriptionFormation3">Bachelier en technologie de l’informatique Ephec , Louvain-la-Neuve.</div>
         </div>
       </div>
       <div>
-        <h3>Exprériences professionnelles</h3>
+        <h3>Expériences professionnelles</h3>
         <div id="experience">
           <div id="dateExp1">2019 Bruxelles-Belgique</div>
           <div id="descriptionExp1">ApConsulting | Mastercard Waterloo
@@ -136,12 +136,12 @@
       <div id="interrests">
         <h5>Intérêts</h5>
         <ul>
-          <li> Jeu vidéo </li>
+          <li> Jeux vidéo </li>
           <li> Manga </li>
           <li> Sports </li>
           <li> Création de jeux vidéo </li>
           <li> Le développement informatique </li>
-          <li> lecture </li>
+          <li> Lecture </li>
 
         </ul>
       </div>
