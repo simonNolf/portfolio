@@ -9,7 +9,7 @@
 a,
 .green {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  
   transition: 0.4s;
 }
 
@@ -29,18 +29,31 @@ table{
   height: 85vh;
   margin-left: auto;
   margin-right: auto;
+  background: linear-gradient(to right,white, blue, orange);
+
+
 }
 
+#port{
+  text-decoration: underline;
+}
 
+#titre{
+  text-align: center;
+}
 thead th{
   font-weight: bold;
   text-decoration: underline;
 }
 
-.delete{
-  border-bottom: 1px solid white ;
+
+
+#description{
+  border-radius: 20px;
+  background: radial-gradient(white, darkblue);
 
 }
+
 .delete1{
   border-left: 1px solid white;
 }
@@ -81,6 +94,7 @@ thead th{
 
 #experience{
   margin: 30px;
+  font-size:15px
 }
 }
 
@@ -136,6 +150,7 @@ thead th{
 
 #experience{
   margin: 30px;
+  font-size:15px;
 }
 
 }
@@ -149,6 +164,7 @@ thead th{
   
   #experience{
     margin: 10px;
+    font-size: 15px;
   }
 
   .langueNom {

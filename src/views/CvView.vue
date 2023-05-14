@@ -4,7 +4,7 @@
       <h1 id="titleCv">Nolf Simon</h1>
       <div>
         <h2>Developpeur</h2>
-        <p id="description"> Bonjour! Je m'appelle Nolf Simon, je suis un développeur diplomé dans la section technologie de l'informatique de la Haute école EPHEC à Louvain La Neuve. Je suis motivé à débuter dans le monde professionnel et à d'apprendre de nouvelles technologies. Sur mon site, vous pourrez avoir accès à mon cv qui se trouve ci-dessous ainsi qu'à mon <a href="/portfolio/portfolio">portfolio</a>.</p>
+        <p id="description"> Bonjour! Je m'appelle Nolf Simon, je suis un développeur diplomé dans la section technologie de l'informatique de la Haute école EPHEC à Louvain La Neuve. Je suis motivé à débuter dans le monde professionnel et à d'apprendre de nouvelles technologies. Sur mon site, vous pourrez avoir accès à mon cv qui se trouve ci-dessous ainsi qu'à mon <a id="port" href="/portfolio/portfolio">portfolio</a>.</p>
       </div>
       <div id="socialWrapper">
         <a href="/">

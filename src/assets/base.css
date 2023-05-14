@@ -94,6 +94,7 @@ body {
   color: black;
   grid-column: 1 / 3;
   grid-row: 1 / 5;
+  font-size: 15px;
 }
 h2 {
   color: white;
@@ -111,6 +112,7 @@ h2 {
 
 #exp{
   padding-left: 10px;
+  font-size: 20px;
 }
 
 #imgProfile {
@@ -137,10 +139,13 @@ h3 {
   margin: 20px;
   text-decoration: underline;
   text-decoration-color: var(--vt-c-green);
+  font-size: 30px;
 }
 
 h5 {
   text-decoration-color: var(--vt-c-green);
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .langueNom {

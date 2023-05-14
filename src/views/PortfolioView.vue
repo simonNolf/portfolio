@@ -1,8 +1,8 @@
 <template>
     <div>
-        <h2>
+        <h3 id="titre">
             Portofolio de Simon 
-        </h2> 
+        </h3> 
     </div>
     <div>
         <table>
@@ -27,7 +27,7 @@
                     <td> <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/Scout.jpg?raw=true">Scouts </a></td>
                     <td> chef louveteaux et éclaireurs</td>
                     <td> 10h</td>
-                    <td> ♾️</td>
+                    <td> &infin;</td>
                 </tr>
                 <tr>
                     <td>  <a href="https://github.com/simonNolf/portfolio/blob/master/src/assets/battledev.jpg?raw=true">Battle Dev </a></td>
