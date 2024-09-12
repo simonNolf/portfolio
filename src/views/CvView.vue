@@ -39,7 +39,7 @@
           <div id="dateFromation2">2020 Belgique</div>
           <div id="descriptionFormation2">Formation d’initiation au développement web (CSS, JavaScript, HTML) Ephec
             (Technofutur).</div>
-          <div id="dateFromation3">2020 - aujourd'hui</div>
+          <div id="dateFromation3">2020 - 2024</div>
           <div id="descriptionFormation3">Bachelier en technologie de l’informatique Ephec , Louvain-la-Neuve.</div>
         </div>
       </div>
